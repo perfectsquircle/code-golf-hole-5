@@ -1,0 +1,1254 @@
+[
+  {
+    "input": "I",
+    "expectedOutput": "1"
+  },
+  {
+    "input": "II",
+    "expectedOutput": "2"
+  },
+  {
+    "input": "III",
+    "expectedOutput": "3"
+  },
+  {
+    "input": "IV",
+    "expectedOutput": "4"
+  },
+  {
+    "input": "V",
+    "expectedOutput": "5"
+  },
+  {
+    "input": "VI",
+    "expectedOutput": "6"
+  },
+  {
+    "input": "VII",
+    "expectedOutput": "7"
+  },
+  {
+    "input": "VIII",
+    "expectedOutput": "8"
+  },
+  {
+    "input": "IX",
+    "expectedOutput": "9"
+  },
+  {
+    "input": "X",
+    "expectedOutput": "10"
+  },
+  {
+    "input": "XI",
+    "expectedOutput": "11"
+  },
+  {
+    "input": "XII",
+    "expectedOutput": "12"
+  },
+  {
+    "input": "XIII",
+    "expectedOutput": "13"
+  },
+  {
+    "input": "XIV",
+    "expectedOutput": "14"
+  },
+  {
+    "input": "XV",
+    "expectedOutput": "15"
+  },
+  {
+    "input": "XVI",
+    "expectedOutput": "16"
+  },
+  {
+    "input": "XVII",
+    "expectedOutput": "17"
+  },
+  {
+    "input": "XVIII",
+    "expectedOutput": "18"
+  },
+  {
+    "input": "XIX",
+    "expectedOutput": "19"
+  },
+  {
+    "input": "XX",
+    "expectedOutput": "20"
+  },
+  {
+    "input": "XXI",
+    "expectedOutput": "21"
+  },
+  {
+    "input": "XXII",
+    "expectedOutput": "22"
+  },
+  {
+    "input": "XXIII",
+    "expectedOutput": "23"
+  },
+  {
+    "input": "XXIV",
+    "expectedOutput": "24"
+  },
+  {
+    "input": "XXV",
+    "expectedOutput": "25"
+  },
+  {
+    "input": "XXVI",
+    "expectedOutput": "26"
+  },
+  {
+    "input": "XXVII",
+    "expectedOutput": "27"
+  },
+  {
+    "input": "XXVIII",
+    "expectedOutput": "28"
+  },
+  {
+    "input": "XXIX",
+    "expectedOutput": "29"
+  },
+  {
+    "input": "XXX",
+    "expectedOutput": "30"
+  },
+  {
+    "input": "XXXI",
+    "expectedOutput": "31"
+  },
+  {
+    "input": "XXXII",
+    "expectedOutput": "32"
+  },
+  {
+    "input": "XXXIII",
+    "expectedOutput": "33"
+  },
+  {
+    "input": "XXXIV",
+    "expectedOutput": "34"
+  },
+  {
+    "input": "XXXV",
+    "expectedOutput": "35"
+  },
+  {
+    "input": "XXXVI",
+    "expectedOutput": "36"
+  },
+  {
+    "input": "XXXVII",
+    "expectedOutput": "37"
+  },
+  {
+    "input": "XXXVIII",
+    "expectedOutput": "38"
+  },
+  {
+    "input": "XXXIX",
+    "expectedOutput": "39"
+  },
+  {
+    "input": "XL",
+    "expectedOutput": "40"
+  },
+  {
+    "input": "XLI",
+    "expectedOutput": "41"
+  },
+  {
+    "input": "XLII",
+    "expectedOutput": "42"
+  },
+  {
+    "input": "XLIII",
+    "expectedOutput": "43"
+  },
+  {
+    "input": "XLIV",
+    "expectedOutput": "44"
+  },
+  {
+    "input": "XLV",
+    "expectedOutput": "45"
+  },
+  {
+    "input": "XLVI",
+    "expectedOutput": "46"
+  },
+  {
+    "input": "XLVII",
+    "expectedOutput": "47"
+  },
+  {
+    "input": "XLVIII",
+    "expectedOutput": "48"
+  },
+  {
+    "input": "XLIX",
+    "expectedOutput": "49"
+  },
+  {
+    "input": "L",
+    "expectedOutput": "50"
+  },
+  {
+    "input": "LI",
+    "expectedOutput": "51"
+  },
+  {
+    "input": "LII",
+    "expectedOutput": "52"
+  },
+  {
+    "input": "LIII",
+    "expectedOutput": "53"
+  },
+  {
+    "input": "LIV",
+    "expectedOutput": "54"
+  },
+  {
+    "input": "LV",
+    "expectedOutput": "55"
+  },
+  {
+    "input": "LVI",
+    "expectedOutput": "56"
+  },
+  {
+    "input": "LVII",
+    "expectedOutput": "57"
+  },
+  {
+    "input": "LVIII",
+    "expectedOutput": "58"
+  },
+  {
+    "input": "LIX",
+    "expectedOutput": "59"
+  },
+  {
+    "input": "LX",
+    "expectedOutput": "60"
+  },
+  {
+    "input": "LXI",
+    "expectedOutput": "61"
+  },
+  {
+    "input": "LXII",
+    "expectedOutput": "62"
+  },
+  {
+    "input": "LXIII",
+    "expectedOutput": "63"
+  },
+  {
+    "input": "LXIV",
+    "expectedOutput": "64"
+  },
+  {
+    "input": "LXV",
+    "expectedOutput": "65"
+  },
+  {
+    "input": "LXVI",
+    "expectedOutput": "66"
+  },
+  {
+    "input": "LXVII",
+    "expectedOutput": "67"
+  },
+  {
+    "input": "LXVIII",
+    "expectedOutput": "68"
+  },
+  {
+    "input": "LXIX",
+    "expectedOutput": "69"
+  },
+  {
+    "input": "LXX",
+    "expectedOutput": "70"
+  },
+  {
+    "input": "LXXI",
+    "expectedOutput": "71"
+  },
+  {
+    "input": "LXXII",
+    "expectedOutput": "72"
+  },
+  {
+    "input": "LXXIII",
+    "expectedOutput": "73"
+  },
+  {
+    "input": "LXXIV",
+    "expectedOutput": "74"
+  },
+  {
+    "input": "LXXV",
+    "expectedOutput": "75"
+  },
+  {
+    "input": "LXXVI",
+    "expectedOutput": "76"
+  },
+  {
+    "input": "LXXVII",
+    "expectedOutput": "77"
+  },
+  {
+    "input": "LXXVIII",
+    "expectedOutput": "78"
+  },
+  {
+    "input": "LXXIX",
+    "expectedOutput": "79"
+  },
+  {
+    "input": "LXXX",
+    "expectedOutput": "80"
+  },
+  {
+    "input": "LXXXI",
+    "expectedOutput": "81"
+  },
+  {
+    "input": "LXXXII",
+    "expectedOutput": "82"
+  },
+  {
+    "input": "LXXXIII",
+    "expectedOutput": "83"
+  },
+  {
+    "input": "LXXXIV",
+    "expectedOutput": "84"
+  },
+  {
+    "input": "LXXXV",
+    "expectedOutput": "85"
+  },
+  {
+    "input": "LXXXVI",
+    "expectedOutput": "86"
+  },
+  {
+    "input": "LXXXVII",
+    "expectedOutput": "87"
+  },
+  {
+    "input": "LXXXVIII",
+    "expectedOutput": "88"
+  },
+  {
+    "input": "LXXXIX",
+    "expectedOutput": "89"
+  },
+  {
+    "input": "XC",
+    "expectedOutput": "90"
+  },
+  {
+    "input": "XCI",
+    "expectedOutput": "91"
+  },
+  {
+    "input": "XCII",
+    "expectedOutput": "92"
+  },
+  {
+    "input": "XCIII",
+    "expectedOutput": "93"
+  },
+  {
+    "input": "XCIV",
+    "expectedOutput": "94"
+  },
+  {
+    "input": "XCV",
+    "expectedOutput": "95"
+  },
+  {
+    "input": "XCVI",
+    "expectedOutput": "96"
+  },
+  {
+    "input": "XCVII",
+    "expectedOutput": "97"
+  },
+  {
+    "input": "XCVIII",
+    "expectedOutput": "98"
+  },
+  {
+    "input": "XCIX",
+    "expectedOutput": "99"
+  },
+  {
+    "input": "C",
+    "expectedOutput": "100"
+  },
+  {
+    "input": "CIX",
+    "expectedOutput": "109"
+  },
+  {
+    "input": "CXVIII",
+    "expectedOutput": "118"
+  },
+  {
+    "input": "CXXVII",
+    "expectedOutput": "127"
+  },
+  {
+    "input": "CXXXVI",
+    "expectedOutput": "136"
+  },
+  {
+    "input": "CXLV",
+    "expectedOutput": "145"
+  },
+  {
+    "input": "CLIV",
+    "expectedOutput": "154"
+  },
+  {
+    "input": "CLXIII",
+    "expectedOutput": "163"
+  },
+  {
+    "input": "CLXXII",
+    "expectedOutput": "172"
+  },
+  {
+    "input": "CLXXXI",
+    "expectedOutput": "181"
+  },
+  {
+    "input": "CXC",
+    "expectedOutput": "190"
+  },
+  {
+    "input": "CXCIX",
+    "expectedOutput": "199"
+  },
+  {
+    "input": "CCVIII",
+    "expectedOutput": "208"
+  },
+  {
+    "input": "CCXVII",
+    "expectedOutput": "217"
+  },
+  {
+    "input": "CCXXVI",
+    "expectedOutput": "226"
+  },
+  {
+    "input": "CCXXXV",
+    "expectedOutput": "235"
+  },
+  {
+    "input": "CCXLIV",
+    "expectedOutput": "244"
+  },
+  {
+    "input": "CCLIII",
+    "expectedOutput": "253"
+  },
+  {
+    "input": "CCLXII",
+    "expectedOutput": "262"
+  },
+  {
+    "input": "CCLXXI",
+    "expectedOutput": "271"
+  },
+  {
+    "input": "CCLXXX",
+    "expectedOutput": "280"
+  },
+  {
+    "input": "CCLXXXIX",
+    "expectedOutput": "289"
+  },
+  {
+    "input": "CCXCVIII",
+    "expectedOutput": "298"
+  },
+  {
+    "input": "CCCVII",
+    "expectedOutput": "307"
+  },
+  {
+    "input": "CCCXVI",
+    "expectedOutput": "316"
+  },
+  {
+    "input": "CCCXXV",
+    "expectedOutput": "325"
+  },
+  {
+    "input": "CCCXXXIV",
+    "expectedOutput": "334"
+  },
+  {
+    "input": "CCCXLIII",
+    "expectedOutput": "343"
+  },
+  {
+    "input": "CCCLII",
+    "expectedOutput": "352"
+  },
+  {
+    "input": "CCCLXI",
+    "expectedOutput": "361"
+  },
+  {
+    "input": "CCCLXX",
+    "expectedOutput": "370"
+  },
+  {
+    "input": "CCCLXXIX",
+    "expectedOutput": "379"
+  },
+  {
+    "input": "CCCLXXXVIII",
+    "expectedOutput": "388"
+  },
+  {
+    "input": "CCCXCVII",
+    "expectedOutput": "397"
+  },
+  {
+    "input": "CDVI",
+    "expectedOutput": "406"
+  },
+  {
+    "input": "CDXV",
+    "expectedOutput": "415"
+  },
+  {
+    "input": "CDXXIV",
+    "expectedOutput": "424"
+  },
+  {
+    "input": "CDXXXIII",
+    "expectedOutput": "433"
+  },
+  {
+    "input": "CDXLII",
+    "expectedOutput": "442"
+  },
+  {
+    "input": "CDLI",
+    "expectedOutput": "451"
+  },
+  {
+    "input": "CDLX",
+    "expectedOutput": "460"
+  },
+  {
+    "input": "CDLXIX",
+    "expectedOutput": "469"
+  },
+  {
+    "input": "CDLXXVIII",
+    "expectedOutput": "478"
+  },
+  {
+    "input": "CDLXXXVII",
+    "expectedOutput": "487"
+  },
+  {
+    "input": "CDXCVI",
+    "expectedOutput": "496"
+  },
+  {
+    "input": "DV",
+    "expectedOutput": "505"
+  },
+  {
+    "input": "DXIV",
+    "expectedOutput": "514"
+  },
+  {
+    "input": "DXXIII",
+    "expectedOutput": "523"
+  },
+  {
+    "input": "DXXXII",
+    "expectedOutput": "532"
+  },
+  {
+    "input": "DXLI",
+    "expectedOutput": "541"
+  },
+  {
+    "input": "DL",
+    "expectedOutput": "550"
+  },
+  {
+    "input": "DLIX",
+    "expectedOutput": "559"
+  },
+  {
+    "input": "DLXVIII",
+    "expectedOutput": "568"
+  },
+  {
+    "input": "DLXXVII",
+    "expectedOutput": "577"
+  },
+  {
+    "input": "DLXXXVI",
+    "expectedOutput": "586"
+  },
+  {
+    "input": "DXCV",
+    "expectedOutput": "595"
+  },
+  {
+    "input": "DCIV",
+    "expectedOutput": "604"
+  },
+  {
+    "input": "DCXIII",
+    "expectedOutput": "613"
+  },
+  {
+    "input": "DCXXII",
+    "expectedOutput": "622"
+  },
+  {
+    "input": "DCXXXI",
+    "expectedOutput": "631"
+  },
+  {
+    "input": "DCXL",
+    "expectedOutput": "640"
+  },
+  {
+    "input": "DCXLIX",
+    "expectedOutput": "649"
+  },
+  {
+    "input": "DCLVIII",
+    "expectedOutput": "658"
+  },
+  {
+    "input": "DCLXVII",
+    "expectedOutput": "667"
+  },
+  {
+    "input": "DCLXXVI",
+    "expectedOutput": "676"
+  },
+  {
+    "input": "DCLXXXV",
+    "expectedOutput": "685"
+  },
+  {
+    "input": "DCXCIV",
+    "expectedOutput": "694"
+  },
+  {
+    "input": "DCCIII",
+    "expectedOutput": "703"
+  },
+  {
+    "input": "DCCXII",
+    "expectedOutput": "712"
+  },
+  {
+    "input": "DCCXXI",
+    "expectedOutput": "721"
+  },
+  {
+    "input": "DCCXXX",
+    "expectedOutput": "730"
+  },
+  {
+    "input": "DCCXXXIX",
+    "expectedOutput": "739"
+  },
+  {
+    "input": "DCCXLVIII",
+    "expectedOutput": "748"
+  },
+  {
+    "input": "DCCLVII",
+    "expectedOutput": "757"
+  },
+  {
+    "input": "DCCLXVI",
+    "expectedOutput": "766"
+  },
+  {
+    "input": "DCCLXXV",
+    "expectedOutput": "775"
+  },
+  {
+    "input": "DCCLXXXIV",
+    "expectedOutput": "784"
+  },
+  {
+    "input": "DCCXCIII",
+    "expectedOutput": "793"
+  },
+  {
+    "input": "DCCCII",
+    "expectedOutput": "802"
+  },
+  {
+    "input": "DCCCXI",
+    "expectedOutput": "811"
+  },
+  {
+    "input": "DCCCXX",
+    "expectedOutput": "820"
+  },
+  {
+    "input": "DCCCXXIX",
+    "expectedOutput": "829"
+  },
+  {
+    "input": "DCCCXXXVIII",
+    "expectedOutput": "838"
+  },
+  {
+    "input": "DCCCXLVII",
+    "expectedOutput": "847"
+  },
+  {
+    "input": "DCCCLVI",
+    "expectedOutput": "856"
+  },
+  {
+    "input": "DCCCLXV",
+    "expectedOutput": "865"
+  },
+  {
+    "input": "DCCCLXXIV",
+    "expectedOutput": "874"
+  },
+  {
+    "input": "DCCCLXXXIII",
+    "expectedOutput": "883"
+  },
+  {
+    "input": "DCCCXCII",
+    "expectedOutput": "892"
+  },
+  {
+    "input": "CMI",
+    "expectedOutput": "901"
+  },
+  {
+    "input": "CMX",
+    "expectedOutput": "910"
+  },
+  {
+    "input": "CMXIX",
+    "expectedOutput": "919"
+  },
+  {
+    "input": "CMXXVIII",
+    "expectedOutput": "928"
+  },
+  {
+    "input": "CMXXXVII",
+    "expectedOutput": "937"
+  },
+  {
+    "input": "CMXLVI",
+    "expectedOutput": "946"
+  },
+  {
+    "input": "CMLV",
+    "expectedOutput": "955"
+  },
+  {
+    "input": "CMLXIV",
+    "expectedOutput": "964"
+  },
+  {
+    "input": "CMLXXIII",
+    "expectedOutput": "973"
+  },
+  {
+    "input": "CMLXXXII",
+    "expectedOutput": "982"
+  },
+  {
+    "input": "CMXCI",
+    "expectedOutput": "991"
+  },
+  {
+    "input": "M",
+    "expectedOutput": "1000"
+  },
+  {
+    "input": "MIX",
+    "expectedOutput": "1009"
+  },
+  {
+    "input": "MXVIII",
+    "expectedOutput": "1018"
+  },
+  {
+    "input": "MXXVII",
+    "expectedOutput": "1027"
+  },
+  {
+    "input": "MXXXVI",
+    "expectedOutput": "1036"
+  },
+  {
+    "input": "MXLV",
+    "expectedOutput": "1045"
+  },
+  {
+    "input": "MLIV",
+    "expectedOutput": "1054"
+  },
+  {
+    "input": "MLXIII",
+    "expectedOutput": "1063"
+  },
+  {
+    "input": "MLXXII",
+    "expectedOutput": "1072"
+  },
+  {
+    "input": "MLXXXI",
+    "expectedOutput": "1081"
+  },
+  {
+    "input": "MXC",
+    "expectedOutput": "1090"
+  },
+  {
+    "input": "MXCIX",
+    "expectedOutput": "1099"
+  },
+  {
+    "input": "MCVIII",
+    "expectedOutput": "1108"
+  },
+  {
+    "input": "MCXVII",
+    "expectedOutput": "1117"
+  },
+  {
+    "input": "MCXXVI",
+    "expectedOutput": "1126"
+  },
+  {
+    "input": "MCXXXV",
+    "expectedOutput": "1135"
+  },
+  {
+    "input": "MCXLIV",
+    "expectedOutput": "1144"
+  },
+  {
+    "input": "MCLIII",
+    "expectedOutput": "1153"
+  },
+  {
+    "input": "MCLXII",
+    "expectedOutput": "1162"
+  },
+  {
+    "input": "MCLXXI",
+    "expectedOutput": "1171"
+  },
+  {
+    "input": "MCLXXX",
+    "expectedOutput": "1180"
+  },
+  {
+    "input": "MCLXXXIX",
+    "expectedOutput": "1189"
+  },
+  {
+    "input": "MCXCVIII",
+    "expectedOutput": "1198"
+  },
+  {
+    "input": "MCCVII",
+    "expectedOutput": "1207"
+  },
+  {
+    "input": "MCCXVI",
+    "expectedOutput": "1216"
+  },
+  {
+    "input": "MCCXXV",
+    "expectedOutput": "1225"
+  },
+  {
+    "input": "MCCXXXIV",
+    "expectedOutput": "1234"
+  },
+  {
+    "input": "MCCXLIII",
+    "expectedOutput": "1243"
+  },
+  {
+    "input": "MCCLII",
+    "expectedOutput": "1252"
+  },
+  {
+    "input": "MCCLXI",
+    "expectedOutput": "1261"
+  },
+  {
+    "input": "MCCLXX",
+    "expectedOutput": "1270"
+  },
+  {
+    "input": "MCCLXXIX",
+    "expectedOutput": "1279"
+  },
+  {
+    "input": "MCCLXXXVIII",
+    "expectedOutput": "1288"
+  },
+  {
+    "input": "MCCXCVII",
+    "expectedOutput": "1297"
+  },
+  {
+    "input": "MCCCVI",
+    "expectedOutput": "1306"
+  },
+  {
+    "input": "MCCCXV",
+    "expectedOutput": "1315"
+  },
+  {
+    "input": "MCCCXXIV",
+    "expectedOutput": "1324"
+  },
+  {
+    "input": "MCCCXXXIII",
+    "expectedOutput": "1333"
+  },
+  {
+    "input": "MCCCXLII",
+    "expectedOutput": "1342"
+  },
+  {
+    "input": "MCCCLI",
+    "expectedOutput": "1351"
+  },
+  {
+    "input": "MCCCLX",
+    "expectedOutput": "1360"
+  },
+  {
+    "input": "MCCCLXIX",
+    "expectedOutput": "1369"
+  },
+  {
+    "input": "MCCCLXXVIII",
+    "expectedOutput": "1378"
+  },
+  {
+    "input": "MCCCLXXXVII",
+    "expectedOutput": "1387"
+  },
+  {
+    "input": "MCCCXCVI",
+    "expectedOutput": "1396"
+  },
+  {
+    "input": "MCDV",
+    "expectedOutput": "1405"
+  },
+  {
+    "input": "MCDXIV",
+    "expectedOutput": "1414"
+  },
+  {
+    "input": "MCDXXIII",
+    "expectedOutput": "1423"
+  },
+  {
+    "input": "MCDXXXII",
+    "expectedOutput": "1432"
+  },
+  {
+    "input": "MCDXLI",
+    "expectedOutput": "1441"
+  },
+  {
+    "input": "MCDL",
+    "expectedOutput": "1450"
+  },
+  {
+    "input": "MCDLIX",
+    "expectedOutput": "1459"
+  },
+  {
+    "input": "MCDLXVIII",
+    "expectedOutput": "1468"
+  },
+  {
+    "input": "MCDLXXVII",
+    "expectedOutput": "1477"
+  },
+  {
+    "input": "MCDLXXXVI",
+    "expectedOutput": "1486"
+  },
+  {
+    "input": "MCDXCV",
+    "expectedOutput": "1495"
+  },
+  {
+    "input": "MDIV",
+    "expectedOutput": "1504"
+  },
+  {
+    "input": "MDXIII",
+    "expectedOutput": "1513"
+  },
+  {
+    "input": "MDXXII",
+    "expectedOutput": "1522"
+  },
+  {
+    "input": "MDXXXI",
+    "expectedOutput": "1531"
+  },
+  {
+    "input": "MDXL",
+    "expectedOutput": "1540"
+  },
+  {
+    "input": "MDXLIX",
+    "expectedOutput": "1549"
+  },
+  {
+    "input": "MDLVIII",
+    "expectedOutput": "1558"
+  },
+  {
+    "input": "MDLXVII",
+    "expectedOutput": "1567"
+  },
+  {
+    "input": "MDLXXVI",
+    "expectedOutput": "1576"
+  },
+  {
+    "input": "MDLXXXV",
+    "expectedOutput": "1585"
+  },
+  {
+    "input": "MDXCIV",
+    "expectedOutput": "1594"
+  },
+  {
+    "input": "MDCIII",
+    "expectedOutput": "1603"
+  },
+  {
+    "input": "MDCXII",
+    "expectedOutput": "1612"
+  },
+  {
+    "input": "MDCXXI",
+    "expectedOutput": "1621"
+  },
+  {
+    "input": "MDCXXX",
+    "expectedOutput": "1630"
+  },
+  {
+    "input": "MDCXXXIX",
+    "expectedOutput": "1639"
+  },
+  {
+    "input": "MDCXLVIII",
+    "expectedOutput": "1648"
+  },
+  {
+    "input": "MDCLVII",
+    "expectedOutput": "1657"
+  },
+  {
+    "input": "MDCLXVI",
+    "expectedOutput": "1666"
+  },
+  {
+    "input": "MDCLXXV",
+    "expectedOutput": "1675"
+  },
+  {
+    "input": "MDCLXXXIV",
+    "expectedOutput": "1684"
+  },
+  {
+    "input": "MDCXCIII",
+    "expectedOutput": "1693"
+  },
+  {
+    "input": "MDCCII",
+    "expectedOutput": "1702"
+  },
+  {
+    "input": "MDCCXI",
+    "expectedOutput": "1711"
+  },
+  {
+    "input": "MDCCXX",
+    "expectedOutput": "1720"
+  },
+  {
+    "input": "MDCCXXIX",
+    "expectedOutput": "1729"
+  },
+  {
+    "input": "MDCCXXXVIII",
+    "expectedOutput": "1738"
+  },
+  {
+    "input": "MDCCXLVII",
+    "expectedOutput": "1747"
+  },
+  {
+    "input": "MDCCLVI",
+    "expectedOutput": "1756"
+  },
+  {
+    "input": "MDCCLXV",
+    "expectedOutput": "1765"
+  },
+  {
+    "input": "MDCCLXXIV",
+    "expectedOutput": "1774"
+  },
+  {
+    "input": "MDCCLXXXIII",
+    "expectedOutput": "1783"
+  },
+  {
+    "input": "MDCCXCII",
+    "expectedOutput": "1792"
+  },
+  {
+    "input": "MDCCCI",
+    "expectedOutput": "1801"
+  },
+  {
+    "input": "MDCCCX",
+    "expectedOutput": "1810"
+  },
+  {
+    "input": "MDCCCXIX",
+    "expectedOutput": "1819"
+  },
+  {
+    "input": "MDCCCXXVIII",
+    "expectedOutput": "1828"
+  },
+  {
+    "input": "MDCCCXXXVII",
+    "expectedOutput": "1837"
+  },
+  {
+    "input": "MDCCCXLVI",
+    "expectedOutput": "1846"
+  },
+  {
+    "input": "MDCCCLV",
+    "expectedOutput": "1855"
+  },
+  {
+    "input": "MDCCCLXIV",
+    "expectedOutput": "1864"
+  },
+  {
+    "input": "MDCCCLXXIII",
+    "expectedOutput": "1873"
+  },
+  {
+    "input": "MDCCCLXXXII",
+    "expectedOutput": "1882"
+  },
+  {
+    "input": "MDCCCXCI",
+    "expectedOutput": "1891"
+  },
+  {
+    "input": "MCM",
+    "expectedOutput": "1900"
+  },
+  {
+    "input": "MCMIX",
+    "expectedOutput": "1909"
+  },
+  {
+    "input": "MCMXVIII",
+    "expectedOutput": "1918"
+  },
+  {
+    "input": "MCMXXVII",
+    "expectedOutput": "1927"
+  },
+  {
+    "input": "MCMXXXVI",
+    "expectedOutput": "1936"
+  },
+  {
+    "input": "MCMXLV",
+    "expectedOutput": "1945"
+  },
+  {
+    "input": "MCMLIV",
+    "expectedOutput": "1954"
+  },
+  {
+    "input": "MCMLXIII",
+    "expectedOutput": "1963"
+  },
+  {
+    "input": "MCMLXXII",
+    "expectedOutput": "1972"
+  },
+  {
+    "input": "MCMLXXXI",
+    "expectedOutput": "1981"
+  },
+  {
+    "input": "MCMXC",
+    "expectedOutput": "1990"
+  },
+  {
+    "input": "MCMXCIX",
+    "expectedOutput": "1999"
+  },
+  {
+    "input": "MMVIII",
+    "expectedOutput": "2008"
+  },
+  {
+    "input": "MMXVII",
+    "expectedOutput": "2017"
+  }
+]

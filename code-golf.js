@@ -17,7 +17,7 @@ let runtime = getRuntime(file)
 
 test(runtime, file).then(() => {
     let stat = fs.statSync(file)
-    console.log(`Your score is ${stat.size}`)
+    console.log(`Your score is ${stat.size}. The evil wizard has sent you back to 2017!`)
     process.exit(0)
 }).catch((e) => {
     console.error(e.message || e)
@@ -25,11 +25,13 @@ test(runtime, file).then(() => {
 })
 
 function test(runtime, file) {
-    var tests = require("./tests.json");
+    let tests = require("./tests.json");
 
-    var testPromises = tests.map(test => runTest(runtime, file, test.input, test.expectedOutput));
+    let testPromises = tests.reduce((promise, test) => {
+        return promise.then(result => runTest(runtime, file, test.input, test.expectedOutput))
+    }, Promise.resolve(true));
 
-    return Promise.all(testPromises);
+    return testPromises;
 }
 
 function runTest(runtime, file, input, expectedOutput) {
