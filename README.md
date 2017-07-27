@@ -33,7 +33,7 @@ $ go run my-solution.go 'CXXIII'
 * A single Arabic numeral must be printed to stdout, and it must be equal to the Roman numeral.
   * The Arabic numeral must be a positive integer and have no leading zeroes.
 * Do not look up solutions online, use your brain. 
-* Solve the problem for arbitrary input, don't code against the test cases.
+* Solve the problem for arbitrary input, don't try to cheat the scoring script.
 
 ## Scoring
 
