@@ -76,6 +76,7 @@ function makeAssertions(input, expectedOutput, output) {
     Expected: ${expectedOutput}
     Actual:   ${output}
     `)
+    console.log("✔", input, " ".repeat(12 - input.length), output)
 }
 
 function getRuntime(file) {
