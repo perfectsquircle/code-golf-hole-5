@@ -18,15 +18,13 @@ $ python3 my-solution.py 'CXXIII'
 123
 $ ruby my-solution.rb 'CXXIII'
 123
-$ dotnet script my-solution.csx -- 'CXXIII'
-123
 $ go run my-solution.go 'CXXIII'
 123
 ```
 
 ## Rules
 
-* The languages are limited to JavaScript (Node.js 6.9), Python (3.6), Ruby (2.4), C# ([.NET Core 1.1](https://github.com/filipw/dotnet-script)), and Golang (1.8.1).
+* The languages are limited to JavaScript (Node.js 6.9), Python (3.6), Ruby (2.4), and Golang (1.8.1).
 * Your submission is limited to a single file.
 * A single Roman numeral is provided as the first argument.
     * The Roman numeral will always be "valid" (no characters out of place).
@@ -39,7 +37,7 @@ $ go run my-solution.go 'CXXIII'
 
 ## Scoring
 
-Please submit a single file (.js, .py, .rb, .csx, or .go). The included node script `code-golf.sh` will be used to score your file. To run this script, you must have Node.js installed.
+Please submit a single file (.js, .py, .rb, or .go). The included node script `code-golf.sh` will be used to score your file. To run this script, you must have Node.js installed.
 
 macOS
 ```bash

@@ -1,10 +1,8 @@
-# docker build -t golf .
-# docker run -it -v "$PWD":/tmp/src golf bash
-
 FROM node
 
-RUN apt-get update
-RUN apt-get install -y ruby
-RUN apt-get install -y python3
+RUN apt-get update && \
+    apt-get install -y ruby python3 golang 
+
 COPY . /src/
+
 WORKDIR /src
