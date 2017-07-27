@@ -41,9 +41,7 @@ function runTest(runtime, file, input, expectedOutput) {
             reject("Timeout\n" + errors.join("\n"))
         }, 7000)
         let node
-        if (runtime === "dotnet") {
-            node = spawn("dotnet", ["script", "--", file, input])
-        } else if (runtime === "go") {
+        if (runtime === "go") {
             node = spawn("go", ["run", file, input])
         } else {
             node = spawn(runtime, [file, input])
@@ -88,8 +86,6 @@ function getRuntime(file) {
             return "python3"
         case ".rb":
             return "ruby"
-        case ".csx":
-            return "dotnet"
         case ".go":
             return "go"
         default:
