@@ -7,9 +7,9 @@ Code Golf is a competition where given a programming prompt, the shortest source
 
 ## Challenge
 
-An evil wizard has sent you (and your laptop) back in time to ancient Rome. He says if you want to return to 2017, you must write him a program that converts Roman numerals to Arabic numerals.
+An evil wizard has sent you (and your laptop) back in time to ancient Rome. He says if you want to return to 2017, you must write him a program that converts numbers from Roman numerals to Arabic numerals.
 
-He will cast a spell to run your program with Roman numerals between I and MMXVII as the first argument. Your program must print the equivalent number in Arabic numerals to stdout. Only after your program has converted all the numbers will the wizard return you to modern times.
+He will cast a spell to run your program with numbers as Roman numerals between I and MMXVII as the first argument. Your program must print the equivalent number in Arabic numerals to stdout. Only after your program has converted all the numbers will the wizard return you to modern times.
 
 ```bash
 $ node my-solution.js 'CXXIII'
@@ -26,12 +26,12 @@ $ go run my-solution.go 'CXXIII'
 
 * The languages are limited to JavaScript (Node.js 6.9), Python (3.6), Ruby (2.4), and Golang (1.8.1).
 * Your submission is limited to a single file.
-* A single Roman numeral is provided as the first argument.
-    * The Roman numeral will always be "valid" (no characters out of place).
+* A single number in Roman numerals is provided as the first argument.
+    * The Roman numerals will always be "valid" (no characters out of place).
     * Valid characters for roman numerals are I, V, X, L, C, D, and M
     * See [Roman numeral rules](http://www.novaroma.org/via_romana/numbers.html)
-* A single Arabic numeral must be printed to stdout, and it must be equal to the Roman numeral.
-  * The Arabic numeral must be a positive integer and have no leading zeroes.
+* A single number in Arabic numerals (0-9) must be printed to stdout, and it must be equal to the number in Roman numerals.
+  * The number must be a positive integer and have no leading zeroes.
 * Do not look up solutions online, use your brain. 
 * Solve the problem for arbitrary input, don't try to cheat the scoring script.
 
@@ -54,7 +54,7 @@ Your score is 456
 Docker
 ```bash
 $ docker build -t golf .
-$ docker run -it -v "$PWD":/tmp/src golf bash
+$ docker run -it -v "$PWD":/src golf bash
 $ ./code-golf.js my-solution.js
 Your score is 456
 ```

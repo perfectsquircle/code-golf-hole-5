@@ -69,7 +69,7 @@ function runTest(runtime, file, input, expectedOutput) {
 function makeAssertions(input, expectedOutput, output) {
     // Trim trailing newline
     output = output.replace(/\r?\n?$/, "")
-    assert.equal(expectedOutput, output, `The numeral was not converted correctly
+    assert.equal(expectedOutput, output, `The number was not converted correctly
     Input:    ${input}
     Expected: ${expectedOutput}
     Actual:   ${output}
